@@ -1,0 +1,17 @@
+META-INF/CompilerHints
+org/openjdk/jmh/infra/generated/Blackhole_jmh_B1.class
+org/openjdk/jmh/infra/generated/Blackhole_jmh.class
+io/kovalevskyi/collections/test/generated/CollectionTest_testListRemoveMethodFromStart.class
+org/openjdk/jmh/infra/generated/Blackhole_jmh_B2.class
+org/openjdk/jmh/infra/generated/Blackhole_jmh_B3.class
+io/kovalevskyi/collections/test/ArrayCollection.class
+io/kovalevskyi/collections/test/CollectionTest.class
+io/kovalevskyi/collections/test/generated/CollectionTest_jmh_B1.class
+io/kovalevskyi/collections/test/generated/CollectionTest_jmh_B2.class
+io/kovalevskyi/collections/test/ArrayCollection$1.class
+io/kovalevskyi/collections/test/generated/CollectionTest_jmh.class
+META-INF/BenchmarkList
+io/kovalevskyi/collections/test/generated/CollectionTest_jmh_B3.class
+io/kovalevskyi/collections/test/generated/CollectionTest_testListRemoveMethodFromEnd.class
+io/kovalevskyi/collections/test/ArrayCollection$ElementsIterator.class
+io/kovalevskyi/collections/test/generated/CollectionTest_testArrayListAddMethod.class
